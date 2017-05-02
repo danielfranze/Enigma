@@ -22,4 +22,4 @@ Technologies
 
 License
 -------
-AutomaticFeedingMachine is released under the terms of the MIT license. See https://opensource.org/licenses/MIT for more information.
+Enigma is released under the terms of the MIT license. See https://opensource.org/licenses/MIT for more information.
